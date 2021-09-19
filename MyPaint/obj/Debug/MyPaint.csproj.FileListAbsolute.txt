@@ -1,0 +1,30 @@
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\bin\Debug\MyPaint.exe.config
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\bin\Debug\MyPaint.exe
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\bin\Debug\MyPaint.pdb
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.Form1.resources
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.exe
+D:\Анна\ITStep Программирование\C#\ClassWork WF C#\Lesson9\MyPaint\obj\Debug\MyPaint.pdb
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\bin\Debug\MyPaint.exe.config
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\bin\Debug\MyPaint.exe
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\bin\Debug\MyPaint.pdb
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.Form1.resources
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.exe
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.pdb
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\bin\Debug\MyPaint.exe.config
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\bin\Debug\MyPaint.exe
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\bin\Debug\MyPaint.pdb
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.Form1.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.exe
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\Lab_3\MyPaint\obj\Debug\MyPaint.pdb
